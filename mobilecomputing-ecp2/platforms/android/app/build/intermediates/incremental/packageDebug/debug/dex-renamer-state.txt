@@ -1,0 +1,4 @@
+#Mon Jul 30 01:15:51 ICT 2018
+base.0=C\:\\ecp2mobilecomputing\\ecp2randy\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\ecp2mobilecomputing\\ecp2randy\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
